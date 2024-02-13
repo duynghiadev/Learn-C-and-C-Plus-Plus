@@ -1,5 +1,7 @@
 # Ngôn ngữ lập trình C và C++
 
+>Trước khi mình học Cấu Trúc Dữ Liệu và Giải Thuật bằng C/C++ thì mình nên học qua các khóa học về C/C++ cơ bản trước.
+
 ## Ngôn ngữ lập trình C
 
 ### Lịch sử
