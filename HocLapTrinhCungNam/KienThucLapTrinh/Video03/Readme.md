@@ -195,6 +195,7 @@ Hôm nay chúng ta học về bài `Thread, ngắt hoạt động thế nào?
 
 - Mỗi cái chương trình đó thì nó được gọi là `interupt handler`
   ![img_11.png](img_11.png)
+
 - Chúng ta có rất nhiều cái ngắt và cái ngắt quan trọng nhất là cái `timer`. Sau mỗi lần thực thi thì nó lại nhảy xuống
   cái `timer`, sau đó nó lại nhảy lên lại
   ![img_12.png](img_12.png)
