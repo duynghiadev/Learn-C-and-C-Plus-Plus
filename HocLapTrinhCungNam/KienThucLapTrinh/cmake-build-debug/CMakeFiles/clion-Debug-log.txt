@@ -1,1 +1,0 @@
-CMakeLists.txt not found in E:\study code\Study Code Project Youtube\LearnC-CPlusPlus\HocLapTrinhCungNam\KienThucLapTrinh Select CMakeLists.txt
