@@ -1,0 +1,26 @@
+Các bạn có thể vào kênh qua địa chỉ
+http://tuhoc.cc
+Hoặc tìm kiếm kênh: Gà Lại Lập Trình
+Playlist Video : 
+✅Lập trình Android với kotlin  : http://kotlin.tuhoc.cc/
+✅Lập trình java  : http://java.tuhoc.cc/
+✅Lập trình C++  : http://c.tuhoc.cc/
+✅ selenium C#  : http://selenium.tuhoc.cc/
+✅ ffmpeg cut, ghép video cực nhanh  : http://ffmpeg.tuhoc.cc/
+✅C# cơ bản cho người mới: http://csharp.tuhoc.cc/
+✅ Python căn bản cho người mới: http://python.tuhoc.cc/
+✅ pygame lập trình game cho người mới : http://pygame.tuhoc.cc/
+✅ opencv python : http://opencv.tuhoc.cc/
+✅ clip động lực để học tập : http://dongluc.tuhoc.cc/
+
+Hi vọng góp phần nhỏ bé trong sự nghiệp học tập của các bạn
+Để làm ra slide và video bài giảng này, mình đã giành toàn bộ thời gian rảnh sau khi kết thúc công việc để làm.
+Có thể video sẽ còn những thiếu sót, mình sẽ cố gắng hoàn thiện hơn nữa.
+Trong seri này nói riêng và tất cả các bài giảng nói chung trên kênh.
+Mình chia sẻ với tiêu chí là share toàn bộ kiến thức.
+Có những phần mà trước kia mình phải mất cả tuần mới tìm được ra, mình cũng sẵn sàng nói hết trong video
+Có khi những thông tin đó mình chỉ nói trong 1 phút ngắn ngủi, nhưng để có 1 phút đó mình đã mất cả tuần để tìm hiểu
+Hi vọng các bạn tiết kiệm đc nhiều thời gian, và học nhanh hơn mình lúc mới học
+
+Nếu có thể được hãy chia sẻ kiến thức mình có cho mọi người.
+Cam ơn các bạn rất nhiều. 
