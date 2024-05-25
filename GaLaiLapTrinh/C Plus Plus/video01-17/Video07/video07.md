@@ -1,0 +1,3 @@
+# 7.Lập trình C++ Toán tử gán, các phép so sánh trong C++ - tự học C++ dễ hiểu
+
+"Chào mừng đến với clip mới của tôi trên kênh YouTube về Lập trình C++. Trong clip này, tôi sẽ hướng dẫn các bạn về các toán tử gán và các phép so sánh trong ngôn ngữ lập trình C++. Các toán tử gán như `=`, `+=`, `-=`, `*=`, `/=`, `%=` giúp cho việc gán giá trị cho biến trong chương trình C++ trở nên dễ dàng hơn. Còn các phép so sánh giúp cho việc so sánh giá trị trong chương trình C++ trở nên dễ dàng hơn. Tôi sẽ hướng dẫn các bạn cách sử dụng các toán tử này trong ví dụ thực tế và giải thích rõ ràng. Đồng thời, tôi cũng sẽ chia sẻ một số kỹ thuật học tập tốt để giúp các bạn tự học C++ một cách dễ hiểu hơn. Hãy theo dõi clip của tôi để tìm hiểu thêm về Lập trình C++."
