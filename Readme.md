@@ -1,3 +1,5 @@
+Đây là khóa học trên youtube, chứ không phải các video từ các khóa học free trên máy tính của mình
+
 # Ngôn ngữ lập trình C và C++
 
 >Trước khi mình học Cấu Trúc Dữ Liệu và Giải Thuật bằng C/C++ thì mình nên học qua các khóa học về C/C++ cơ bản trước.
