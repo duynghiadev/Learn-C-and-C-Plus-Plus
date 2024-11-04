@@ -16,16 +16,16 @@ Nếu chương trình C++ yêu cầu nhập dữ liệu từ bàn phím, hãy l�
 2. **Biên dịch file C++**:
 
    - Giả sử file C++ của bạn có tên là `main.cpp`.
-   - Chạy lệnh sau trong Terminal để biên dịch:
+   - Chạy lệnh sau trong Terminal để biên dịch và tạo file đầu ra với tên tùy chỉnh:
      ```bash
-     g++ main.cpp
+     g++ main.cpp -o main.out
      ```
-   - Lệnh này sẽ tạo một file thực thi mặc định tên là `a.out`.
+   - Lệnh này sẽ tạo một file thực thi tên là `main.out` (hoặc `main.exe` trên Windows).
 
 3. **Chạy chương trình**:
    - Nhập lệnh sau để chạy chương trình:
      ```bash
-     ./a.out
+     ./main.out
      ```
 
 Chương trình sẽ chạy và cho phép bạn nhập dữ liệu từ bàn phím khi được yêu cầu.
@@ -46,4 +46,7 @@ Với các chương trình không yêu cầu nhập dữ liệu từ bàn phím,
 
 ---
 
-Lưu ý: Nếu chương trình yêu cầu nhập liệu, hãy sử dụng cách thủ công để chạy như hướng dẫn ở mục 1.
+**Lưu ý**:
+
+- Nếu chương trình yêu cầu nhập liệu từ bàn phím, bạn nên sử dụng cách thủ công như hướng dẫn ở mục 1 để đảm bảo chương trình có thể xử lý nhập liệu đúng cách.
+- Bạn có thể điều chỉnh tên file đầu ra theo cách thủ công mỗi lần bằng lệnh `-o <tên_file>` khi biên dịch với `g++`.
