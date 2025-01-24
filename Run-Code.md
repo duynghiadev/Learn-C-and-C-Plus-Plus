@@ -17,18 +17,22 @@ Nếu chương trình C++ yêu cầu nhập dữ liệu từ bàn phím, hãy l�
 
    - Giả sử file C++ của bạn có tên là `main.cpp`.
    - Chạy lệnh sau trong Terminal để biên dịch và tạo file đầu ra với tên tùy chỉnh:
+
      ```bash
-     g++ main.cpp -o main.out
+     g++ main.cpp -o main.exe
      ```
-   - Lệnh này sẽ tạo một file thực thi tên là `main.out` (hoặc `main.exe` trên Windows).
+
+   - Lệnh này sẽ tạo một file thực thi tên là `main.exe` (hoặc `main.exe` trên Windows).
 
 3. **Chạy chương trình**:
+
    - Nhập lệnh sau để chạy chương trình:
+
      ```bash
-     ./main.out
+     ./main.exe
      ```
 
-Chương trình sẽ chạy và cho phép bạn nhập dữ liệu từ bàn phím khi được yêu cầu.
+     Chương trình sẽ chạy và cho phép bạn nhập dữ liệu từ bàn phím khi được yêu cầu.
 
 ## 2. Chạy chương trình C++ không yêu cầu nhập dữ liệu từ bàn phím
 
@@ -41,6 +45,7 @@ Với các chương trình không yêu cầu nhập dữ liệu từ bàn phím,
      - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 
 2. **Chạy chương trình**:
+
    - Mở file C++ của bạn và nhấn **Run Code** (hoặc sử dụng phím tắt `Ctrl + Alt + N`).
    - Code Runner sẽ tự động biên dịch và chạy chương trình trong terminal.
 
