@@ -34,6 +34,10 @@ Nếu chương trình C++ yêu cầu nhập dữ liệu từ bàn phím, hãy l�
 
      Chương trình sẽ chạy và cho phép bạn nhập dữ liệu từ bàn phím khi được yêu cầu.
 
+   - Lệnh này dùng để chạy 1 lần: build code và run code:
+
+     👉 `g++ main.cpp -o main.exe && ./main.exe`
+
 ## 2. Chạy chương trình C++ không yêu cầu nhập dữ liệu từ bàn phím
 
 Với các chương trình không yêu cầu nhập dữ liệu từ bàn phím, bạn có thể sử dụng **Code Runner** để chạy nhanh hơn.
