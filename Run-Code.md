@@ -32,11 +32,11 @@ Nếu chương trình C++ yêu cầu nhập dữ liệu từ bàn phím, hãy l�
      ./main.exe
      ```
 
-     Chương trình sẽ chạy và cho phép bạn nhập dữ liệu từ bàn phím khi được yêu cầu.
+     Chương trình sẽ chạy và cho phép bạn nhập dữ liệu từ bàn phím khi được yêu cầu
 
-   - Lệnh này dùng để chạy 1 lần: build code và run code:
+4. **Lệnh này dùng để chạy 1 lần: build code và run code:**
 
-     👉 `g++ main.cpp -o main.exe && ./main.exe`
+   👉 `g++ main.cpp -o main.exe && ./main.exe`
 
 ## 2. Chạy chương trình C++ không yêu cầu nhập dữ liệu từ bàn phím
 
